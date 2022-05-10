@@ -2,7 +2,7 @@ package algorithm;
 
 import java.util.Scanner;
 
-public class Quiz_List_01 {
+public class BJ_01 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

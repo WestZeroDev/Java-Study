@@ -3,7 +3,7 @@ package algorithm;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Q14503 {
+public class BJ_14503 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
