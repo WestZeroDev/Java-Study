@@ -6,6 +6,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
+//2022 KAKAO BLIND RECRUITMENT > 신고 결과 받기
 public class Kakao_2022_01 {
 	public int[] solution(String[] id_list, String[] report, int k) {
 		List<User> user_list = new ArrayList<>();
