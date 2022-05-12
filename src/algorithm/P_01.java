@@ -3,7 +3,7 @@ package algorithm;
 import java.util.ArrayList;
 import java.util.List;
 
-//¿ÏÀüÅ½»ö > ¸ğÀÇ°í»ç
+//ì™„ì „íƒìƒ‰ > ëª¨ì˜ê³ ì‚¬
 public class P_01 {
 	public int[] solution(int[] answers) {
 		int[][] pattern = {{1,2,3,4,5}, {2,1,2,3,2,4,2,5}, {3,3,1,1,2,2,4,4,5,5}};

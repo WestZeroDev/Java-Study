@@ -1,6 +1,6 @@
 package algorithm;
 
-//Å½¿å¹ý(Greedy) > Ã¼À°º¹
+//íƒìš•ë²•(Greedy) > ì²´ìœ¡ë³µ
 public class P_02 {
 	public int solution(int n, int[] lost, int[] reserve) {
 		int[] now = new int[n];

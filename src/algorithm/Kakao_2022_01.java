@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-//2022 KAKAO BLIND RECRUITMENT > ½Å°í °á°ú ¹Þ±â
+//2022 KAKAO BLIND RECRUITMENT > ì‹ ê³  ê²°ê³¼ ë°›ê¸°
 public class Kakao_2022_01 {
 	public int[] solution(String[] id_list, String[] report, int k) {
 		List<User> user_list = new ArrayList<>();
